@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91ec85d-be55-4908-9371-f013ff5d93e5" name="Changes" comment="fix counter">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a91ec85d-be55-4908-9371-f013ff5d93e5" name="Changes" comment="fix counter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Infinite Learning\Batch 6\Del\asset" />
       <recent name="E:\Infinite Learning\Batch 6\Del" />
     </key>
   </component>
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711724228261</updated>
-      <workItem from="1711724247701" duration="6915000" />
+      <workItem from="1711724247701" duration="7043000" />
     </task>
     <task id="LOCAL-00001" summary="fix counter">
       <option name="closed" value="true" />
